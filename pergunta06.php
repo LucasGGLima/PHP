@@ -21,36 +21,36 @@
 
         <section class="box pergunta">
 
-            <p class="perguntas">Como Bi Han, o Sub-Zero, se tornou o Noob Saibot?</p>
+            <p class="perguntas">Em quantos estados o bioma do pantanal está localizado?</p>
             <div>
 
                 <div class="orgText">
                     <input type="radio" name="alt01" value="false">
-                <label>Trocou de roupa</label>
+                <label>Mato Grosso e Mato Grosso do Sul.</label>
                 <br>
                 </div>
 
                 <div class="orgText">
                     <input type="radio" name="alt01" value="false">
-                <label>Absorvendo as almas dos inimigos que ele assassinava</label>
+                <label>Goiás, Mato Grosso e Mato Grosso do Sul.</label>
                 <br>
                 </div>
 
                 <div class="orgText">
                     <input type="radio" name="alt01" value="true">
-                <label>Foi ressucitado como um espectro</label>
+                <label>Pará, Rio de Janeiro e Goiás.</label>
                 <br>
                 </div>
 
                 <div class="orgText">
                     <input type="radio" name="alt01" value="false">
-                <label>Aprendento magia do submundo</label>
+                <label>Amapá, Pará, Mato Grosso e Tocantins.</label>
                 <br>
                 </div>
 
                 <div class="orgText">
                     <input type="radio" name="alt01" value="false">
-                <label>Eles não são a mesma pessoa e sim irmãos</label>
+                <label>Acre, Amazonas e Roraima.</label>
 
                 </div>
 

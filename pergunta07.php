@@ -21,7 +21,7 @@
 
         <section class="box pergunta">
 
-            <p class="perguntas">Como Bi Han, o Sub-Zero, se tornou o Noob Saibot?</p>
+            <p class="perguntas">Qual é o pais mais rico do mundo, segundo o PIB?</p>
             <div>
 
                 <div class="orgText">

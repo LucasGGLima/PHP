@@ -21,36 +21,36 @@
 
         <section class="box pergunta">
 
-            <p class="perguntas">Como Bi Han, o Sub-Zero, se tornou o Noob Saibot?</p>
+            <p class="perguntas">Qual é o menor país do mundo?</p>
             <div>
 
                 <div class="orgText">
                     <input type="radio" name="alt01" value="false">
-                <label>Trocou de roupa</label>
+                <label>Bélgica</label>
                 <br>
                 </div>
 
                 <div class="orgText">
                     <input type="radio" name="alt01" value="false">
-                <label>Absorvendo as almas dos inimigos que ele assassinava</label>
+                <label>Croácia</label>
                 <br>
                 </div>
 
                 <div class="orgText">
                     <input type="radio" name="alt01" value="true">
-                <label>Foi ressucitado como um espectro</label>
+                <label>Mônaco</label>
                 <br>
                 </div>
 
                 <div class="orgText">
                     <input type="radio" name="alt01" value="false">
-                <label>Aprendento magia do submundo</label>
+                <label>Nauru</label>
                 <br>
                 </div>
 
                 <div class="orgText">
                     <input type="radio" name="alt01" value="false">
-                <label>Eles não são a mesma pessoa e sim irmãos</label>
+                <label>Vaticano</label>
 
                 </div>
 
