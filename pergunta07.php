@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Document</title>
+    <title>Questão 7</title>
     <link rel="stylesheet" href="style.css">
 </head>
 
@@ -26,31 +26,31 @@
 
                 <div class="orgText">
                     <input type="radio" name="alt01" value="false">
-                <label>Trocou de roupa</label>
+                <label>Austrália</label>
                 <br>
                 </div>
 
                 <div class="orgText">
                     <input type="radio" name="alt01" value="false">
-                <label>Absorvendo as almas dos inimigos que ele assassinava</label>
+                <label>Irlanda</label>
                 <br>
                 </div>
 
                 <div class="orgText">
                     <input type="radio" name="alt01" value="true">
-                <label>Foi ressucitado como um espectro</label>
+                <label>Suécia</label>
                 <br>
                 </div>
 
                 <div class="orgText">
                     <input type="radio" name="alt01" value="false">
-                <label>Aprendento magia do submundo</label>
+                <label>Suíça</label>
                 <br>
                 </div>
 
                 <div class="orgText">
                     <input type="radio" name="alt01" value="false">
-                <label>Eles não são a mesma pessoa e sim irmãos</label>
+                <label>Luxemburgo</label>
 
                 </div>
 

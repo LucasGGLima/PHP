@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Document</title>
+    <title>Questão 8</title>
     <link rel="stylesheet" href="style.css">
 </head>
 
@@ -21,36 +21,36 @@
 
         <section class="box pergunta">
 
-            <p class="perguntas">Como Bi Han, o Sub-Zero, se tornou o Noob Saibot?</p>
+            <p class="perguntas">Qual é o segundo maior país da europa em extensão? ( Sei que você que a Rússia é a primeira, boa sorte..)</p>
             <div>
 
                 <div class="orgText">
                     <input type="radio" name="alt01" value="false">
-                <label>Trocou de roupa</label>
+                <label>Portugal</label>
                 <br>
                 </div>
 
                 <div class="orgText">
                     <input type="radio" name="alt01" value="false">
-                <label>Absorvendo as almas dos inimigos que ele assassinava</label>
+                <label>Ucrânia</label>
                 <br>
                 </div>
 
                 <div class="orgText">
                     <input type="radio" name="alt01" value="true">
-                <label>Foi ressucitado como um espectro</label>
+                <label>França</label>
                 <br>
                 </div>
 
                 <div class="orgText">
                     <input type="radio" name="alt01" value="false">
-                <label>Aprendento magia do submundo</label>
+                <label>Espanha</label>
                 <br>
                 </div>
 
                 <div class="orgText">
                     <input type="radio" name="alt01" value="false">
-                <label>Eles não são a mesma pessoa e sim irmãos</label>
+                <label>Reino Unido</label>
 
                 </div>
 
