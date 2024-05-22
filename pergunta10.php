@@ -1,3 +1,8 @@
+<?php
+$res09 = $_POST["alt09"];
+session_start();
+$_SESSION['res09'] = $res09;
+?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -21,36 +26,36 @@
 
         <section class="box pergunta">
 
-            <p class="perguntas">Como Bi Han, o Sub-Zero, se tornou o Noob Saibot?</p>
+            <p class="perguntas">Qual foi o país mais visitado do mundo em 2023?</p>
             <div>
 
                 <div class="orgText">
-                    <input type="radio" name="alt01" value="false">
-                <label>Trocou de roupa</label>
+                    <input type="radio" name="alt10" value="false">
+                <label>Espanha</label>
                 <br>
                 </div>
 
                 <div class="orgText">
-                    <input type="radio" name="alt01" value="false">
-                <label>Absorvendo as almas dos inimigos que ele assassinava</label>
+                    <input type="radio" name="alt10" value="true">
+                <label>França</label>
                 <br>
                 </div>
 
                 <div class="orgText">
-                    <input type="radio" name="alt01" value="true">
-                <label>Foi ressucitado como um espectro</label>
+                    <input type="radio" name="alt10" value="false">
+                <label>Estados Unidos</label>
                 <br>
                 </div>
 
                 <div class="orgText">
-                    <input type="radio" name="alt01" value="false">
-                <label>Aprendento magia do submundo</label>
+                    <input type="radio" name="alt10" value="false">
+                <label>Brasil</label>
                 <br>
                 </div>
 
                 <div class="orgText">
-                    <input type="radio" name="alt01" value="false">
-                <label>Eles não são a mesma pessoa e sim irmãos</label>
+                    <input type="radio" name="alt10" value="false">
+                <label>Itália</label>
 
                 </div>
 

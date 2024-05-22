@@ -1,3 +1,8 @@
+<?php
+$res06 = $_POST["alt06"];
+session_start();
+$_SESSION['res06'] = $res06;
+?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -25,31 +30,31 @@
             <div>
 
                 <div class="orgText">
-                    <input type="radio" name="alt01" value="false">
+                    <input type="radio" name="alt07" value="false">
                 <label>Austrália</label>
                 <br>
                 </div>
 
                 <div class="orgText">
-                    <input type="radio" name="alt01" value="false">
+                    <input type="radio" name="alt07" value="false">
                 <label>Irlanda</label>
                 <br>
                 </div>
 
                 <div class="orgText">
-                    <input type="radio" name="alt01" value="true">
+                    <input type="radio" name="alt07" value="true">
                 <label>Suécia</label>
                 <br>
                 </div>
 
                 <div class="orgText">
-                    <input type="radio" name="alt01" value="false">
+                    <input type="radio" name="alt07" value="false">
                 <label>Suíça</label>
                 <br>
                 </div>
 
                 <div class="orgText">
-                    <input type="radio" name="alt01" value="false">
+                    <input type="radio" name="alt07" value="false">
                 <label>Luxemburgo</label>
 
                 </div>

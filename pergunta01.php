@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -37,13 +38,13 @@
                 </div>
 
                 <div class="orgText">
-                    <input type="radio" name="alt01" value="true">
+                    <input type="radio" name="alt01" value="false">
                 <label>América</label>
                 <br>
                 </div>
 
                 <div class="orgText">
-                    <input type="radio" name="alt01" value="false">
+                    <input type="radio" name="alt01" value="true">
                 <label>Ásia</label>
                 <br>
                 </div>

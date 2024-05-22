@@ -1,3 +1,8 @@
+<?php
+$res08 = $_POST["alt08"];
+session_start();
+$_SESSION['res08'] = $res08;
+?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -21,36 +26,36 @@
 
         <section class="box pergunta">
 
-            <p class="perguntas">Como Bi Han, o Sub-Zero, se tornou o Noob Saibot?</p>
+            <p class="perguntas">Qual é a capital de Goiás?</p>
             <div>
 
                 <div class="orgText">
-                    <input type="radio" name="alt01" value="false">
-                <label>Trocou de roupa</label>
+                    <input type="radio" name="alt09" value="false">
+                <label>Caldas Novas</label>
                 <br>
                 </div>
 
                 <div class="orgText">
-                    <input type="radio" name="alt01" value="false">
-                <label>Absorvendo as almas dos inimigos que ele assassinava</label>
+                    <input type="radio" name="alt09" value="false">
+                <label>Distrito Federal</label>
                 <br>
                 </div>
 
                 <div class="orgText">
-                    <input type="radio" name="alt01" value="true">
-                <label>Foi ressucitado como um espectro</label>
+                    <input type="radio" name="alt09" value="false">
+                <label>Aparecida de Goiânia</label>
                 <br>
                 </div>
 
                 <div class="orgText">
-                    <input type="radio" name="alt01" value="false">
-                <label>Aprendento magia do submundo</label>
+                    <input type="radio" name="alt09" value="true">
+                <label>Goiânia</label>
                 <br>
                 </div>
 
                 <div class="orgText">
-                    <input type="radio" name="alt01" value="false">
-                <label>Eles não são a mesma pessoa e sim irmãos</label>
+                    <input type="radio" name="alt09" value="false">
+                <label>Maceió</label>
 
                 </div>
 

@@ -1,3 +1,8 @@
+<?php
+$res04 = $_POST["alt04"];
+session_start();
+$_SESSION['res04'] = $res04;
+?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -25,31 +30,31 @@
             <div>
 
                 <div class="orgText">
-                    <input type="radio" name="alt01" value="false">
+                    <input type="radio" name="alt05" value="false">
                 <label>Europeia e Norte-Americana</label>
                 <br>
                 </div>
 
                 <div class="orgText">
-                    <input type="radio" name="alt01" value="false">
+                    <input type="radio" name="alt05" value="false">
                 <label>Euro-Asiática e Norte-Americana</label>
                 <br>
                 </div>
 
                 <div class="orgText">
-                    <input type="radio" name="alt01" value="true">
+                    <input type="radio" name="alt05" value="true">
                 <label>Pacífica e Norte-Americana</label>
                 <br>
                 </div>
 
                 <div class="orgText">
-                    <input type="radio" name="alt01" value="false">
+                    <input type="radio" name="alt05" value="false">
                 <label>Sul-Americana e Norte-Americana</label>
                 <br>
                 </div>
 
                 <div class="orgText">
-                    <input type="radio" name="alt01" value="false">
+                    <input type="radio" name="alt05" value="false">
                 <label>Sul-Americana e Africana</label>
 
                 </div>

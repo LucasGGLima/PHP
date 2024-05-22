@@ -1,3 +1,8 @@
+<?php
+$res05 = $_POST["alt05"];
+session_start();
+$_SESSION['res05'] = $res05;
+?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -25,31 +30,31 @@
             <div>
 
                 <div class="orgText">
-                    <input type="radio" name="alt01" value="false">
+                    <input type="radio" name="alt06" value="true">
                 <label>Mato Grosso e Mato Grosso do Sul.</label>
                 <br>
                 </div>
 
                 <div class="orgText">
-                    <input type="radio" name="alt01" value="false">
+                    <input type="radio" name="alt06" value="false">
                 <label>Goiás, Mato Grosso e Mato Grosso do Sul.</label>
                 <br>
                 </div>
 
                 <div class="orgText">
-                    <input type="radio" name="alt01" value="true">
+                    <input type="radio" name="alt06" value="false">
                 <label>Pará, Rio de Janeiro e Goiás.</label>
                 <br>
                 </div>
 
                 <div class="orgText">
-                    <input type="radio" name="alt01" value="false">
+                    <input type="radio" name="alt06" value="false">
                 <label>Amapá, Pará, Mato Grosso e Tocantins.</label>
                 <br>
                 </div>
 
                 <div class="orgText">
-                    <input type="radio" name="alt01" value="false">
+                    <input type="radio" name="alt06" value="false">
                 <label>Acre, Amazonas e Roraima.</label>
 
                 </div>
