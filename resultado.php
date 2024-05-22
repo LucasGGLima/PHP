@@ -30,8 +30,13 @@ for($i; $i < 10; $i++){
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Resultado</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
-   <p> <?php echo($comparacao)?></p>
+   <p id="resultadofinal"> 
+    <?php
+    echo "Você acertou ".$comparacao." questões, parabéns.";
+    ?>
+   </p>
 </body>
 </html>

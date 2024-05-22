@@ -20,7 +20,7 @@ $_SESSION['res09'] = $res09;
 
         <section class="box imagem center">
 
-            <img src="img01.jpg" class="imagens borda">
+            <img src="turistas.jpg" class="imagens borda">
 
         </section>
 

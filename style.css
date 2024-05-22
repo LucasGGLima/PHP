@@ -1,0 +1,299 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'calibri';
+}
+#resultadofinal{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    font-size: 60px;
+}
+body{
+    background: url('img00.jpg') no-repeat;
+    background-position: left;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.left{
+    display: flex;
+    justify-content: start;
+    align-items: center;
+}
+
+.borda{
+    border-radius: 10px;
+}
+
+.iniTexto{
+    font-size: 400%;
+}
+
+
+
+form{
+    background-color: rgb(255, 255, 255);
+    height: 80%;
+    width: 30%;
+    padding: 1em;
+    
+}
+
+main{
+    background-color: rgba(255, 255, 255, 0.6);
+    height: 80%;
+    width: 60%; 
+}
+
+.imgHP{
+    height: 100%;
+    border: black 1px solid;
+    
+}
+
+.ini{
+    width: 50%;
+    padding: 1em;
+}
+
+.box{
+    width: 100%;
+}
+
+.imagem{
+    height: 30%;
+   width: 100%;
+}
+
+.imagens{
+   height: 100%;
+   width: 100%;
+ 
+}
+
+.pergunta{
+   
+        height: 40%;
+    
+}
+
+.orgText{
+margin: 1em;
+}
+
+.botao{
+    
+    height: 20%;
+
+}
+
+.botoes{
+    text-decoration: none;
+    padding: 1em;
+    background-color: rgb(30, 203, 209);
+    color: rgb(255, 255, 255);
+    border-width: 0px;
+}
+
+.resImg{
+    width: 100%;
+    height: 50%;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 5%;
+}
+
+
+.resTexto{
+    width: 100%;
+    height: 10%;
+   
+}
+
+.resBarra{
+    width: 100%;
+    height: 20%;
+    
+}
+
+.imgsRes{
+    height: 100%;
+    border-radius: 10px;
+    
+}
+
+.index{
+    background-color: rgba(255, 255, 255, 0.6);
+    height: 80%;
+    width: 80%; 
+    display: flex;
+    justify-content: space-between;
+}
+
+.caixaBarra{
+    width: 80%;
+    height: 30%;
+    background-color: rgb(207, 207, 207);
+    border-radius: 20px;
+}
+
+.barra{
+    width: 0%;
+    height: 100%;
+    background-color: rgb(51, 147, 185);
+    border-radius: 20px;
+}
+
+.b01{
+    animation: andar01 2s forwards;
+}
+
+.b02{
+    animation: andar02 2s forwards;
+}
+
+.b03{
+    animation: andar03 2s forwards;
+}
+
+.b04{
+    animation: andar04 2s forwards;
+}
+
+.b05{
+    animation: andar05 2s forwards;
+}
+
+.b06{
+    animation: andar06 2s forwards;
+}
+
+.b07{
+    animation: andar07 2s forwards;
+}
+
+.b08{
+    animation: andar08 2s forwards;
+}
+
+.b09{
+    animation: andar09 2s forwards;
+}
+
+.b10{
+    animation: andar10 2s forwards;
+}
+
+@keyframes andar01{
+    50%{
+        width: 5%;
+    }
+
+    100%{
+        width: 10%;
+    }
+}
+
+@keyframes andar02{
+    50%{
+        width: 10%;
+    }
+
+    100%{
+        width: 20%;
+    }
+}
+
+@keyframes andar03{
+    50%{
+        width: 15%;
+    }
+
+    100%{
+        width: 30%;
+    }
+}
+
+@keyframes andar04{
+    50%{
+        width: 20%;
+    }
+
+    100%{
+        width: 40%;
+    }
+}
+
+@keyframes andar05{
+    50%{
+        width: 25%;
+    }
+
+    100%{
+        width: 50%;
+    }
+}
+
+@keyframes andar06{
+    50%{
+        width: 30%;
+    }
+
+    100%{
+        width: 60%;
+    }
+}
+
+@keyframes andar07{
+    50%{
+        width: 35%;
+    }
+
+    100%{
+        width: 70%;
+    }
+}
+
+@keyframes andar08{
+    50%{
+        width: 40%;
+    }
+
+    100%{
+        width: 80%;
+    }
+}
+
+@keyframes andar09{
+    50%{
+        width: 45%;
+    }
+
+    100%{
+        width: 90%;
+    }
+}
+
+@keyframes andar10{
+    50%{
+        width: 50%;
+    }
+
+    100%{
+        width: 100%;
+    }
+}
