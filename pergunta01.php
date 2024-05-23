@@ -22,7 +22,7 @@
 
         <section class="box pergunta">
 
-            <p class="perguntas">Qual é o maior continente em extensão territorial?</p>
+            <p class="perguntas">Qual é oko maior continente em extensão territorial?</p>
             <div>
 
                 <div class="orgText">
