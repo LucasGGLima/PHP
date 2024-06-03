@@ -18,13 +18,13 @@ $_SESSION['res09'] = $res09;
 
     <form action="resultado.php" method="post" class="borda">
 
-        <section class="box imagem center">
+        <section class="imagem center">
 
             <img src="turistas.jpg" class="imagens borda">
 
         </section>
 
-        <section class="box pergunta">
+        <section class="pergunta">
 
             <p class="perguntas">Qual foi o país mais visitado do mundo em 2023?</p>
             <div>
@@ -63,11 +63,11 @@ $_SESSION['res09'] = $res09;
 
         </section>
 
-        <section class="box botao center">
+        <section class="center">
             <button class="botoes borda" type="submit">Próxima</button>
         </section>
 
-        <section class="box botao center">
+        <section class="botao center">
         <a href="index.html">voltar</a>
         </section>
 

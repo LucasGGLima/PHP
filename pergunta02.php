@@ -20,7 +20,7 @@ $_SESSION['res01'] = $res01;
 
         <section class="box imagem center">
 
-            <img src="america do sul.webp" class="imagens borda">
+            <img src="" class="imagens borda">
 
         </section>
 
@@ -63,11 +63,11 @@ $_SESSION['res01'] = $res01;
 
         </section>
 
-        <section class="box botao center">
+        <section class="center">
             <button class="botoes borda" type="submit">Próxima</button>
         </section>
 
-        <section class="box botao center">
+        <section class="botao center">
         <a href="index.html">voltar</a>
         </section>
 

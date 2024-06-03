@@ -1,6 +1,6 @@
 
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
 
 <head>
     <meta charset="UTF-8">
@@ -13,16 +13,15 @@
 <body>
 
     <form action="pergunta02.php" method="post" class="borda">
-
-        <section class="box imagem center">
-
-            <img src="mapa-mundi-em-fundo-azul.webp" class="imagens borda">
+ 
+        <section class="imagem center">
+        <img src="img02.webp" class="imagens borda">
 
         </section>
 
         <section class="box pergunta">
 
-            <p class="perguntas">Qual é oko maior continente em extensão territorial?</p>
+            <p class="perguntas">Qual é o maior continente em extensão territorial?</p>
             <div>
 
                 <div class="orgText">
@@ -59,11 +58,11 @@
 
         </section>
 
-        <section class="box botao center">
+        <section class="center">
             <button class="botoes borda" type="submit">Próxima</button>
         </section>
 
-        <section class="box botao center">
+        <section class="botao center">
         <a href="index.html">voltar</a>
         </section>
 

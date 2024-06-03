@@ -18,13 +18,13 @@ $_SESSION['res06'] = $res06;
 
     <form action="pergunta08.php" method="post" class="borda">
 
-        <section class="box imagem center">
+        <section class="imagem center">
 
             <img src="suiça.jpg" class="imagens borda">
 
         </section>
 
-        <section class="box pergunta">
+        <section class="pergunta">
 
             <p class="perguntas">Qual é o pais mais rico do mundo, segundo o PIB?</p>
             <div>
@@ -63,11 +63,11 @@ $_SESSION['res06'] = $res06;
 
         </section>
 
-        <section class="box botao center">
+        <section class="center">
             <button class="botoes borda" type="submit">Próxima</button>
         </section>
 
-        <section class="box botao center">
+        <section class="botao center">
         <a href="index.html">voltar</a>
         </section>
 

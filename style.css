@@ -3,6 +3,12 @@
     padding: 0px;
     font-family: 'calibri';
 }
+.barra{
+    width: 0%;
+    height: 100%;
+    background-color: rgb(51, 147, 185);
+    border-radius: 20px;
+}
 body{
     background: url('img00.jpg') no-repeat;
     background-position: left;
@@ -13,29 +19,30 @@ body{
     justify-content: center;
     align-items: center;
 }
-
-.barra{
-    width: 0%;
-    height: 100%;
-    background-color: rgb(51, 147, 185);
-    border-radius: 20px;
-}
 .borda{
     border-radius: 10px;
 }
 .botao{
-    height: 20%;
-
+    position: absolute;
+    top: 88%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 20%;
+    height: 5%;
+    border: 1px solid blue;
 }
 .botoes{
     text-decoration: none;
-    padding: 1em;
-    background-color: rgb(30, 203, 209);
+    background-color: rgb(233, 123, 123);
     color: rgb(255, 255, 255);
-    border-width: 0px;
-}
-.box{
-    width: 100%;
+    border: 1px solid black;
+    width: 10%;
+    height: 4%;
+    position: absolute;
+    top: 78%;
+    left: 50%;
+    transform: translate(-50%, -50%); 
+    font-size: large;
 }
 .caixaBarra{
     width: 80%;
@@ -50,9 +57,13 @@ body{
 }
 
 .imgHP{
-    height: 100%;
-    border: black 1px solid;
-    
+    height: 50%;
+    border: black 2px solid;
+    width: 80;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%)
 }
 .imagem{
     height: 30%;
@@ -61,12 +72,10 @@ body{
 .imagens{
    height: 100%;
    width: 100%;
- 
 }
 .imgsRes{
     height: 100%;
-    border-radius: 10px;
-    
+    border-radius: 10px;  
 }
 .index{
     background-color: rgba(255, 255, 255, 0.6);
@@ -81,13 +90,16 @@ body{
 }
 .iniTexto{
     font-size: 200%;
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    transform: translate(-50%, -50%)
 }
 form{
     background-color: rgb(255, 255, 255);
     height: 80%;
     width: 30%;
     padding: 1em;
-    
 }
 main{
     background-color: rgba(255, 255, 255, 0.6);
