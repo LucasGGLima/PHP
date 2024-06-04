@@ -15,7 +15,7 @@
     <form action="pergunta02.php" method="post" class="borda">
  
         <section class="imagem center">
-        <img src="img02.webp" class="imagens borda">
+        <img src="imgs/img02.webp" class="imagens borda">
 
         </section>
 

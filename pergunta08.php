@@ -20,7 +20,7 @@ $_SESSION['res07'] = $res07;
 
         <section class="imagem center">
 
-            <img src="europa.jpg" class="imagens borda">
+            <img src="imgs/img09.jpg" class="imagens borda">
 
         </section>
 
@@ -36,13 +36,13 @@ $_SESSION['res07'] = $res07;
                 </div>
 
                 <div class="orgText">
-                    <input type="radio" name="alt08" value="false">
+                    <input type="radio" name="alt08" value="true">
                 <label>Ucrânia</label>
                 <br>
                 </div>
 
                 <div class="orgText">
-                    <input type="radio" name="alt08" value="true">
+                    <input type="radio" name="alt08" value="false">
                 <label>França</label>
                 <br>
                 </div>
